@@ -1,18 +1,9 @@
 [
-  {},
-  {
-    "username": "tarikkoc",
-    "password": "atk123"
-  },
-  {
-    "username": "tarikkoc",
-    "password": "rroonnii"
-  },
   {
     "name": "Tarık",
     "surname": "Koç",
-    "mail": "tarikkoc@gmail.com",
+    "mail": "tarikkoc@atk.com",
     "username": "tarikkoc",
-    "password": "rroonnii"
+    "password": "tarikkoc"
   }
 ]
