@@ -1,14 +1,96 @@
 [
-        { "id": 1, "title": "Eminem", "img": "https://www.indyturk.com/sites/default/files/styles/1368x911/public/article/main_image/2020/07/11/417711-2057761605.jpg?itok=DcpzUHjZ", "genre":"Rap", "rating":"8.4" },
-        { "id": 2, "title": "Dua Lipa", "img": "https://m.media-amazon.com/images/I/91y9tf-cOoL._UF1000,1000_QL80_.jpg", "genre":"Pop", "rating":"7.6" },
-        { "id": 3, "title": "MFÖ", "img": "https://i.scdn.co/image/ab67616d0000b273e03e8e29bbd7c75677935d56", "genre":"Rock", "rating":"7.5" },
-        { "id": 4, "title": "Shakira", "img": "https://m.media-amazon.com/images/I/4177kb6l0GL._AC_UF1000,1000_QL80_.jpg", "genre":"Pop", "rating":"8.0" },
-        { "id": 5, "title": "Taylor Swift", "img": "https://m.media-amazon.com/images/M/MV5BZGM0YjhkZmEtNGYxYy00OTk0LThlNDgtNGQzM2YwNjU0NDQzXkEyXkFqcGdeQXVyMTU3ODQxNDYz._V1_FMjpg_UX1000_.jpg", "genre":"Pop", "rating":"8.5" },
-        { "id": 6, "title": "Bad Bunny", "img": "https://media.glamour.mx/photos/63b4631e1b58d7fe76ed30c9/master/w_1600%2Cc_limit/bad_bunny_arroja_al_mar_celular_de_una_fan.jpg", "genre":"Rap", "rating":"6.8" },
-        { "id": 7, "title": "Drake", "img": "https://static01.nyt.com/images/2021/12/08/arts/06drake2/06drake2-mediumSquareAt3X.jpg", "genre":"Rap", "rating":"6.9" },
-        { "id": 8, "title": "The Weeknd", "img": "https://upload.wikimedia.org/wikipedia/commons/a/a0/The_Weeknd_Portrait_by_Brian_Ziff.jpg", "genre":"Rap", "rating":"8.2" },
-        { "id": 9, "title": "Billie Eilish", "img": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf", "genre":"Pop", "rating":"8.4" },
-        { "id": 10, "title": "Sezen Aksu", "img": "https://m.media-amazon.com/images/M/MV5BMzhkNDRiYzUtOWZkMi00NTA5LTk0ZDgtNDY3MmZhYmE4OWZhXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg", "genre":"Pop", "rating":"8.3" },
-        { "id": 11, "title": "Olivia Rodrigo", "img": "https://nationaltoday.com/wp-content/uploads/2022/04/Olivia-Rodrigo-Birthday.jpg.webp", "genre":"Pop", "rating":"8.0" },
-        { "id": 12, "title": "Karol G", "img": "https://espanol.reviewjournal.com/wp-content/uploads/2023/06/17875985_web1_Web-Karol-G-nuevo-album-1.jpg", "genre":"Pop", "rating":"8.1" }
-]   
+  {
+    "id": 1,
+    "title": "Eminem",
+    "img": "https://www.indyturk.com/sites/default/files/styles/1368x911/public/article/main_image/2020/07/11/417711-2057761605.jpg?itok=DcpzUHjZ",
+    "genre": "Rap",
+    "rating": "8.4",
+    "matter": "Lose Yourself, Stan, Not Afraid, The Real Slim Shady, The Way I am, When I'm Gone, Without Me, Sing for the Moment, Mockingbird, No Love"
+  },
+  {
+    "id": 2,
+    "title": "Dua Lipa",
+    "img": "https://m.media-amazon.com/images/I/91y9tf-cOoL._UF1000,1000_QL80_.jpg",
+    "genre": "Pop",
+    "rating": "7.6",
+    "matter": "New Rules, Don't Start Now, Levitating, Break My Heart, Be The One, Physical, One Kiss, Last Dance, IDGAF, Hotter Than Hell"
+  },
+  {
+    "id": 3,
+    "title": "MFÖ",
+    "img": "https://i.scdn.co/image/ab67616d0000b273e03e8e29bbd7c75677935d56",
+    "genre": "Rock",
+    "rating": "7.5",
+    "matter": "Mazeretim Var Asabiyim Ben, Sarı Laleler, Ali Desidero, Hep Yaşın 19, Sufi, Güllerin içinden, Sude, Tam Ortasındayım, Buselik Makamına, Ele Güne Karşı"
+  },
+  {
+    "id": 4,
+    "title": "Shakira",
+    "img": "https://m.media-amazon.com/images/I/4177kb6l0GL._AC_UF1000,1000_QL80_.jpg",
+    "genre": "Pop",
+    "rating": "8.0",
+    "matter": "Hips Don't Lie, Whenever Wherever, Waka Waka, She Wolf, Underneath Your Clothes, Can't Remember to Forget You, Beautiful Liar, Loca, Illegal, Ojos Asi"
+  },
+  {
+    "id": 5,
+    "title": "Taylor Swift",
+    "img": "https://m.media-amazon.com/images/M/MV5BZGM0YjhkZmEtNGYxYy00OTk0LThlNDgtNGQzM2YwNjU0NDQzXkEyXkFqcGdeQXVyMTU3ODQxNDYz._V1_FMjpg_UX1000_.jpg",
+    "genre": "Pop",
+    "rating": "8.5",
+    "matter": "Bad Blood ft. Kendrick Lamar, You Belong With Me, Look What You Made Me Do, Wildest Dreams, Style, We Are Never Ever Getting Back Together, Love Story, Anti-Hero, Shake It Off, Blank Space"
+  },
+  {
+    "id": 6,
+    "title": "Bad Bunny",
+    "img": "https://media.glamour.mx/photos/63b4631e1b58d7fe76ed30c9/master/w_1600%2Cc_limit/bad_bunny_arroja_al_mar_celular_de_una_fan.jpg",
+    "genre": "Rap",
+    "rating": "6.8",
+    "matter": "Vete, Me Porto Bonito, Yo Perreo Sola, Ojitos Lindos, Tití Mi Preguntó, Volví"
+  },
+  {
+    "id": 7,
+    "title": "Drake",
+    "img": "https://static01.nyt.com/images/2021/12/08/arts/06drake2/06drake2-mediumSquareAt3X.jpg",
+    "genre": "Rap",
+    "rating": "6.9",
+    "matter": "God's plan, Nice For What, Laugh Now Cry Later, Trust Issues, Rich Flex, Hotline Bling, Best I Ever Had, Passionfruit"
+  },
+  {
+    "id": 9,
+    "title": "Billie Eilish",
+    "img": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
+    "genre": "Pop",
+    "rating": "8.4",
+    "matter": "Ocean Eyes, Six Feet Under, Bored, lovely, Bad Guy, No Time to Die, My Future, Everything I Wanted"
+  },
+  {
+    "id": 10,
+    "title": "Sezen Aksu",
+    "img": "https://m.media-amazon.com/images/M/MV5BMzhkNDRiYzUtOWZkMi00NTA5LTk0ZDgtNDY3MmZhYmE4OWZhXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg",
+    "genre": "Pop",
+    "rating": "8.3"
+  },
+  {
+    "id": 11,
+    "title": "Olivia Rodrigo",
+    "img": "https://nationaltoday.com/wp-content/uploads/2022/04/Olivia-Rodrigo-Birthday.jpg.webp",
+    "genre": "Pop",
+    "rating": "8.0",
+    "matter": "Vampire, Traitor, Drivers License, Deja vu, Happier"
+  },
+  {
+    "id": 12,
+    "title": "Karol G",
+    "img": "https://espanol.reviewjournal.com/wp-content/uploads/2023/06/17875985_web1_Web-Karol-G-nuevo-album-1.jpg",
+    "genre": "Pop",
+    "rating": "8.1",
+    "matter": "S91, Provenza, MIENTRAS ME CURO DEL CORA, X SI VOLVEMOS, CAIRO, Don't Be Shy"
+  },
+  {
+    "title": "Ceza",
+    "img": "https://yt3.googleusercontent.com/IC7uqK4cRv2l-K58IlOpoUC-kxggyYB4PR5kbtGLSb1KigxPkpIBU1gQOyAY7WK5f3a21aGC=s900-c-k-c0x00ffffff-no-rj",
+    "rating": "8.0",
+    "genre": "Rap",
+    "matter": "Fark Var, Yerli Plaka, Holocaust, Türk Marşı"
+  }
+]

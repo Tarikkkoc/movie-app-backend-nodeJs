@@ -1,30 +1,232 @@
 [
-        { "id": 1, "title": "Breaking Bad", "img": "https://br.web.img3.acsta.net/pictures/14/03/31/19/28/462555.jpg" , "rating":"9.5", "genre":"Suç", "matter":"Sıradan bir kimya öğretmeni olan Walter White'ın öleceğini öğrenince uyuşturucu üreticiliğine kadar uzanan özgürleşme deneyimi, çarpıcı bir kara mizaha dönüşüyor. \n Doktor, hasta olduğunuzu ve yaşamak için iki seneniz kaldığını söyledi... Ne yapardınız? Dünyayı gezmek, sevdiklerinizle vakit geçirmek, asla cesaret edemediğiniz bir şeyi denemek... Tüm bunlar sizin için bir seçenek olabilir. Ancak Walter White için durum biraz farklı. The X-Files'ın yapımcısı Vince Gillian'ın imzasını taşıyan Breaking Bad, ölümle yüzleşen sıradan bir adamın sıradışı hikayesini anlatıyor. Walter, eşi ve engelli oğlu Jr. ile New Mexico'da tüm hayatını kurallara göre yaşayan kendi halinde bir kimya öğretmeniyken, ölümcül safhada akciğer kanseri olduğunu öğrenir. Yaşamak için iki senesi kalmıştır. Bu haberle sarsılan White, hayatının denklemini değiştirir. Tüm günlük endişelerden ve toplumun dayattığı sınırlamalardan sıyrılarak yeni bir adama dönüşür... Kimya bilgilerini farklı bir neden için, uyuşturucu üretip satmak için kullanan bir adam. Amacı ölümünden sonra ailesinin geçinebilmesini sağlayacak parayı kazanmaktır. Ancak işler kontrolden çıkar. Basit bir aile babasının uyuşturucu çetesinin elebaşına dönüşmesinin komik ama aynı zamanda duygu yüklü hikayesini kaçırmayın. Hele Malcolm in the Middle'ın babası Bryan Cranston, Emmy'ye aday gösterilen ve Drama Dalında En İyi Erkek Oyuncu ödülünü kazanan Walter rolünde hayatının performansını sunarken." },
-        { "id": 2, "title": "Kurtlar Vadisi", "img": "https://upload.wikimedia.org/wikipedia/tr/1/1f/Kurtlar-vadisi-eski.jpg" , "rating":"7.9", "genre":"Aksiyon", "matter":"Yurt dışında KGT adına birçok başarılı operasyonda bulunan Ali Candan; en son Kosova'da iken emrinde olduğu Aslan Akbey tarafından yurda çağrılmış ve kendisine en kritik görev olan Kurtlar Vadisi Operasyonu görevi verilmiştir. Bu görevdeki amaç; mafyanın en tepesindeki güç olan ve Mehmet Karahanlı'nın baron olduğu Kurtlar Konseyi'nin çökertilmesidir. Bu görev hiç kolay değildir ve Kurtlar Konseyi çok güçlüdür. Öyle ki konsey, Türkiye'nin yıllık millî gelirinin yarısı kadar bir paraya hükmetmektedir." },
-        { "id": 3, "title": "Vikings", "img": "https://tr.web.img3.acsta.net/pictures/19/10/09/14/38/1936798.jpg" , "rating":"8.5", "genre":"Macera", "matter":"Sekizinci yüzyıl İskandinavyası’nda geçen dizi, basit bir çiftçiyken cesur bir savaşçıya dönüşen Ragnar Lothbrok ve ailesinin öyküsünü ekranlara taşıyor. Savaş Tanrısı Odin'in soyundan geldiğine inanılan Ragnor’un acımasız ve korkusuz adamlarıyla birlikte denizlerle olan imtihanını seyrederken; savaşçı ve tüccar bir kavim olan Vikingler’in çok az işlenmiş ilgi çekici kültürüne hep birlikte tanık oluyoruz. Tarihi bir drama olarak nitelendirilebilecek dizinin hikayesi, gerçek Avrupa efsanelerine ve tarihsel figürlere dayanıyor." },
-        { "id": 4, "title": "How I Met Your Mother", "img": "https://flxt.tmsimg.com/assets/p185124_b_v9_aj.jpg" , "rating":"8.3", "genre":"Komedi", "matter":"27 yaşındaki Manhattan’lı mimar Ted, arkadaş grubuyla kendine küçük bir dünya yaratmış bir genç. Grupları dört kişiden oluşuyor: En iyi arkadaşı, hukuk öğrencisi Marshall (Jason Segel), dokuz yıldır birlikte olduğu anaokulu öğretmeni sevgilisi Lily (Buffy the Vampire Slayer’ın Willow’u Alyson Hannigan) ve kendine özgü fikirleri olan, takım elbise giymekten şaşmayan, kızlarla tanışmak için sağlam bir yöntem geliştirmiş Barney Stenson (Neil Patrick Harris). Onun kalıcı ilişki kurmak gibi kaygıları yok. Tersine, renkten renge koşuyor. Bizim onunla tanıştığımız sıralarda Lübnanlı kızları beğeniyor, bir önceki favorisi yarı Asyalı kızlarmış. Günler böylece akıp giderken, Marshall, anaokulu öğretmeni Lily ile evlenmeye karar verdiğini açıklayınca Ted (Josh Radnor) paniğe kapılıyor. Romantik Ted’in bekâr kalmaya hiç niyeti yok ve eğer gerçek aşkı bulmaya niyeti varsa, onun da harekete geçmesi gerek. Derken Robin Trubotsky (Cobie Smulders) ile tanışıyor ve ilk bakışta âşık olduğunu düşünüyor. Acaba sahiden öyle mi?" },
-        { "id": 5, "title": "Narcos", "img": "https://m.media-amazon.com/images/I/71bmgBo-EQL._AC_UF894,1000_QL80_.jpg" , "rating":"8.8", "genre":"Aksiyon", "matter":"Dizi, uyuşturucu kartellerini ve onların peşindeki ajanların hikayesini anlatıyor. Yaşanmış olaylardan yola çıkan ve 1980’li yıllarda geçen dizi, dünyanın en meşhur uyuşturucu baronlarından ve bilinen en büyük suçlulardan biri olan Pablo Escobar’ı merkezine alıyor. Dizide, Wagner Moura‘yı Pablo Escobar, Pedro Pascal‘ı Javier Pena, Boyd Holbrook‘ı Steve Murphy ve Juan Pablo Raba‘yı Gustavo rollerinde izleyeceğiz. Dizinin senaryosunu Chris Brancato yazıyor. Yönetmenliği ise José Padilha‘ya ait." },
-        { "id": 6, "title": "Peaky Blinders", "img": "https://www.formulatv.com/images/series/posters/1000/1079/dest_1.jpg" , "rating":"8.8", "genre":"Suç", "matter":"Birinci Dünya Savaşı’ndan yeni çıkmış İngiltere’yi, yasadışı faaliyet gösteren çeşitli çeteler sarmıştır. Bunlardan biri de soygunculuk ve at yarışıyla para kazanan Peaky Blinders’dır. Polislere rüşvet yedirerek paçayı kurtaran çete, bir soygunda yanlışlık yapınca, başlarına bela olacak yeni bir müfettişin şehre gelmesine vesile olurlar" },
-        { "id": 7, "title": "The 100", "img": "https://resizing.flixster.com/LHH5SvybzNWHdHxRfyh-ZMDQIFE=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjEyODEwMS53ZWJw" , "rating":"7.6", "genre":"Bilim Kurgu", "matter":"97 yıl önce, dünya nükleer bir kıyametin ardından yerle bir olmuştur ve hayatta kalanlar çevredeki uzay istasyonlarına yerleşmişlerdir. 3 kuşak sonra, kaynaklar artık yetmemeye başlar. Geleceklerini garantiye almak adına atılan acımasız adımlar sonrasında, genç mahkumlardan oluşan 100 kişilik bir grup, yaşanılır olup olmadığını test etmek adına Dünya’ya gönderilir. Şu ana dek, gezegene ayak basan başkası olmamıştır." },
-        { "id": 8, "title": "Modern Family", "img": "https://images.justwatch.com/poster/8589534/s718/sezon-2.%7Bformat%7D" , "rating":"8.5", "genre":"Komedi", "matter":"Pritchett, Dunphy ve Pritchett-Tucker ailelerinin günlük yaşantılarından manzaralar sunan Modern Family dizisinin konusu, bu üç ailenin ekseninde dönüyor. Genel olarak bölümler, kamera karşısına geçen aile üyelerine bir sorunun sorulması ile başlıyor ve aslında bölüm boyunca o sorunun cevabını veren olaylar yaşanıyor" },
-        { "id": 9, "title": "A Perfect Story", "img": "https://m.media-amazon.com/images/M/MV5BNzc2ZGE3OTktMTEwNS00MTY0LTllNWQtYTE3YmNhYjdhZDIwXkEyXkFqcGdeQXVyMTUzOTczNzYx._V1_.jpg" , "rating":"7.7", "genre":"Romantik", "matter":"Kendi düğününden kaçan Margot, hayattaki amacını kaybetmiş gibi hissetmektedir. Ama deli dolu David sayesinde yolunu tekrar bulabileceğinin henüz farkında değildir. Geçinebilmek için üç farklı işte çalışmak zorunda olan David ile bir otel imparatorluğunun vârisi olan Margot farklı dünyaların insanlarıdır. Ancak yolları kesişen bu ikili, hayatlarının aşkını geri kazanabilmek için birbirlerinin yardımına muhtaç olduklarını fark eder." },
-        { "id": 10, "title": "Hijack", "img": "https://image.tmdb.org/t/p/w500/szDEqqarPi3YqiPLevm7LObYrDJ.jpg" , "rating":"7.6", "genre":"Gerilim", "matter":"KA29 sefer sayılı uçuş Dubai'den Londra'ya yedi saatlik yolculuğu sırasında kaçırıldığında, başarılı bir kurumsal müzakereci olan Sam Nelson, uçaktaki herkesi kurtarmak için profesyonel becerilerini kullanmaya çalışır. Bu yüksek riskli strateji onun sonunu mu getirecek?" },
-        { "id": 11, "title": "Foundation", "img": "https://m.media-amazon.com/images/M/MV5BODgxNTExNjktN2VmNS00MWM0LWI3ZjYtNjlhZGIyYTM0YjM0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" , "rating":"7.5", "genre":"Bilim Kurgu", "matter":"Foundation; insanların Samanyolu boyunca farklı gezegenlere yayıldığı bir gelecekte geçiyor. Hikâyenin merkezinde ise matematiksel verileri kullanarak geleceği görme yeteneğine sahip bir tarihçi ve matematikçi olan Hari Seldon yer alıyor. Galaksinin dört bir köşesine saçılmış insanları bir arada tutan Galaktik İmparatorluk’un çökmek üzere olduğunu gören Seldon, insanlığın bilgisini ve tarihini yok olmaktan kurtarmak için zorlu bir yolculuğa atılıyor." },
-        { "id": 12, "title": "The Crowded Room", "img": "https://m.media-amazon.com/images/M/MV5BYTkxMDc2OTUtNjAyYi00NDUyLWE4OGMtODQwMjY5ZmRmOTMwXkEyXkFqcGdeQXVyMjM3NjM3Mg@@._V1_FMjpg_UX1000_.jpg" , "rating":"7.6", "genre":"Dram", "matter":"1979 yazında Manhattan'da, genç bir adam şok edici bir suçtan tutuklanır ve beklenmedik bir müfettiş, bunun arkasındaki gizemi çözmek zorundadır." },
-        { "id": 13, "title": "Survival of the Thickest", "img": "https://m.media-amazon.com/images/M/MV5BYzAxZGJlNjktNDQ3Mi00N2E1LWJmZGUtNDBjMzVkMzU5NWIxXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg" , "rating":"7.6", "genre":"Komedi", "matter":"İşine tutkuyla bağlı bir stilist olan Mavis Beaumont, kötü bir ayrılığın ardından yeni bir hayata ve aşka yelken açıp kendi tanımladığı mutluluğu bulma fırsatı yakalar. Survival of the Thickest Mavis Beaumont'ın (Michelle Buteau) başından geçenlere odaklanıyor. Kendi tercihi olmaksızın yeniden bekârlığa dönen, siyahi ve büyük bedenli bir kadın olan Mavis, kendini beklenmedik bir durumun içinde bulur. Şimdi zorluk içindeki bir stilist olarak hayatını yeniden kurmak zorundadır. Ancak olan biteni atlatmakla kalmayıp, hayatta başarılı olmakta da kararlıdır. Bu konuda ailesi gibi gördüğü dostları, beden olumlayıcı bir yaklaşım, v-yaka hoş bir kıyafet ve biraz dudak parlatıcı ona büyük destek olacaktır. Bu komedi dizisi, Buteau'nun büyük ilgi gören deneme kitabından uyarlandı." },
-        { "id": 14, "title": "Celebrity", "img": "https://pics.filmaffinity.com/celebrity-266729613-mmed.jpg" , "rating":"7.5", "genre":"Gerilim", "matter":"Şöhret, para ve güç temalı bu dizide bir gecede sosyal medya yıldızına dönüşen Seo A‑ri, fenomenlerin gösterişli dünyasında başarısının ölümcül sonuçlarıyla yüzleşecektir. Celebrity, kendini bir anda şöhretin parayı da beraberinde getirdiği ünlüler dünyasında bulan Seo A-ri'nin maceralarını ve karşılaştığı ünlülerin rekabete dayalı gösterişli hayatlarının gerçek yüzünü anlatıyor." },
-        { "id": 15, "title": "Titans", "img": "https://nezaman.be/uploads/series/r/r-2018-27557-titans.jpg" , "rating":"7.5", "genre":"Aksiyon", "matter":"Titans, eskiden Batman'in himayesinde olan ve Robin olarak bilinen, şimdi ise Nightwin olarak suçlularla mücadele eden Dick Grayson (Brenton Thwaites) liderliğindeki bir grup genç süper kahramanı merkezine alıyor. Eski bir sirk çalışanı olan Grayson, anne-babasının ölümünden sonra Batman'in himayesine alınmış ve suçlularla mücadele etmek için eğitilmiştir. Grayson, Nightwing olarak Batman’in gölgesinden çıkacak ve Starfire (Anna Diop), Raven (Teagan Croft), Beast Boy (Ryan Potter) ve pek çok başka süper kahramanın içinde bulunduğu yeni ve korkusuz bir Titans takımının başına geçecektir." },
-        { "id": 16, "title": "Steeltown Murders", "img": "https://m.media-amazon.com/images/M/MV5BYzgxMWNlOTQtN2VjNi00ZDhjLThkM2YtOWYyMjg4ODY0MjdiXkEyXkFqcGdeQXVyOTMyODgwOTQ@._V1_FMjpg_UX1000_.jpg" , "rating":"7.1", "genre":"Suç", "matter":"Çözülmemiş ama asla unutulmamış üç cinayet. Otuz yıl sonra DCI Bethall, 1970'lerde Port Talbot'a terör estiren seri katili bulabilecek mi?" },
-        { "id": 17, "title": "Manifest", "img": "https://tr.web.img2.acsta.net/pictures/19/12/24/09/27/2970070.jpg" , "rating":"7.1", "genre":"Gizem", "matter":"Bir uçak uçuş sırasında türbülansa girer ve bir havalimanına acil iniş yapmak zorunda kalır. Havalimanında inen yolcuları bekleyen bir süpriz vardır. Aradan beş sene geçmiştir; oysa onlar sadece bir günün geçtiğini düşünmektedir." },
-        { "id": 18, "title": "Back to 15", "img": "https://images.ottplay.com/posters/Back_to_15_2022_tv_shows_poster_1_907.jpeg" , "rating":"6.7", "genre":"Komedi", "matter":"Hayatından memnun olmayan 30 yaşındaki Anita yanlışlıkla 15 yaşına geri dönmenin yolunu keşfeder. Acaba kendi kaderini baştan yazabilecek mi? De Volta aos 15, Anita'nın kendini keşfetme ve olgunlaşma serüvenini konu alan komik ve heyecan dolu bir yapım. Maisa tarafından canlandırılan 15 yaşındaki bu gencin yetişkinliğinde süreceği hayata dair büyük beklentileri vardı: Yaşadığı küçük kasaba Imperatriz'den ayrılacak, birçok yer gezip görecek ve bir sürü insanla tanışacaktı. Ancak 30 yaşına geldiğinde hayatının bununla uzaktan yakından alakası yoktu. Yaşadığı talihsiz olayların ardından ergenliğini geçirdiği yatak odasına sığınan Anita, sihirli şekilde kendini yeniden lisenin ilk gününde buldu: 30 yaşındaki aklıyla, 15 yaşındaki gencecik bedenine dönmüştü!" },
-        { "id": 19, "title": "Face to Face", "img": "https://m.media-amazon.com/images/M/MV5BNTM4MDk3ZDEtYjhmYi00OGI1LWIyZTktYzQzNmVjNmJlNmVmXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" , "rating":"6.8", "genre":"Suç", "matter":"Polis memuru Bjorn’un kızı ölü bulunduğunda, polis memuru, kızının son günlerini araştırmaya koyuluyor. Şüphelilerle bir kaç kez tesadüfü karşılaşmadan sonra, hem kızı hem de kendisi hakkında sert gerçeklerle karşı karşıya kalır." },
-        { "id": 20, "title": "Sleeping Dog", "img": "https://m.media-amazon.com/images/M/MV5BMjBmYjYyMDUtMzkzOC00ZGQxLWFjY2QtYjUwZTc1MzM1MWVlXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_FMjpg_UX1000_.jpg" , "rating":"6.4", "genre":"Suç", "matter":"Yeni bir ölüm, kapandığı sanılan bir cinayet davası hakkında rahatsız edici şüpheler uyanmasına sebep olur. Sokaklarda yaşayan eski bir dedektif gerçeğin peşine düşer. Gözden düşmüş ünlü bir polis ve gelecek vadeden genç bir savcı farklı sebeplerle, kapanmış bir cinayet dosyasını ve beraberinde Pandora'nın Kutusu'nu açar. Bir komplonun kanlı izleri emniyet kurumunun derinliklerine kadar uzanmakta ve tehlikeli bir şekilde herkesi içine çekmektedir. Yargı makamının en tepesindekiler de bu suça dâhil mi? Yoksa her şey bir buçuk yıl önce şehri derinden sarsan yıkıcı terör saldırısıyla mı ilgili? Bu soruların cevabı polis memurunun gözden düşmesi ve bunu tetikleyen olaylarla bağlantılıdır. Böylece Pandora'nın Kutusu'nun gerçek içeriği ortaya çıkacaktır." },
-        { "id": 21, "title": "Secret Invasion", "img": "https://m.media-amazon.com/images/I/91uCLEr4ABL._AC_UF1000,1000_QL80_.jpg" , "rating":"6.1", "genre":"Aksiyon", "matter":"Marvel's Secret Invasion'ın Thanos'un Sonsuzluk Taşları'nı kullanmasından hemen sonrasında geçeceği biliniyor. Evrenin yarısının yok olmasının ardından yaşananları konu edinecek. Orijinal çizgi romanlarda Secret Invasion'ın konusu şöyleydi: Şekil değiştiren uzaylılar olarak bilinen Skrulllar, yok olan süper kahramanların yerine geçer. Böylece dünyayı ele geçirmeye çalışırlar." },
-        { "id": 22, "title": "The Messenger", "img": "https://www.hdfilmcehennemi.life/uploads/poster/the-messenger.jpg" , "rating":"6.4", "genre":"Dram", "matter":"Ed'in hayatı, huzurlu bir rutinden ibarettir. Ta ki gizemli bir mesajı alana kadar." },
-        { "id": 23, "title": "Aktris", "img": "https://tr.web.img2.acsta.net/pictures/23/05/05/10/04/0636492.jpg" , "rating":"5.4", "genre":"Suç", "matter":"Türkiye’nin en ünlü kadın starının gündüz ışıltılı gece karanlık dünyasına yolculuk." },
-        { "id": 24, "title": "Fake Profile", "img": "https://nezaman.be/uploads/series/r/r-2023-68680-perfil-falso.jpg" , "rating":"5.7", "genre":"Romantik", "matter":"Hayallerindeki adamı arayan Camila, flört uygulamasında seksi bir profil oluşturur. Uygulamada Fernando adında çok yakışıklı birini bulur. Ancak aslında bekâr olmayan bu adamın adı da Fernando değildir. Tuzağa düşen Camila için her şey bir kâbus hâlini alır. Tanıştığı adamın gerçekte kim olduğunu öğrenmek için her şeyi yapmaya hazır olan genç kadın, çaresizce bu düzenbazın gerçek kimliğini arar. Kendisine söylediği her bir yalanın ve verdiği her bir sözün bedelini tek tek ödetmeye kararlıdır. Ancak yanıltıcı görünümlerle dolu içinden çıkılmaz bir labirente girdiğinden habersiz olan Camila, yasak ilişki ve ölümcül güçlerle dolu bir dünyaya sürüklenir." },
-        { "id": 25, "title": "Muted", "img": "https://m.media-amazon.com/images/M/MV5BZjc2MmIxMjAtOGFjOS00ODE2LWIzMzUtZjBhMDc0NGRmODJmXkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg" , "rating":"5.6", "genre":"Suç", "matter":"Sergio, anne babasını öldürdüğü günden beri konuşmamıştır. Aradan geçen altı yılın ardından bir psikiyatrist, sıra dışı bir soruşturmayla yaşananları ortaya çıkarmaya çalışır. Anne babasını öldüren Sergio Ciscar, altı yıl sonra hapisten çıkar. Salıverildiği sırada hâlâ on sekiz yaşından küçüktür. Hapiste kaldığı süre boyunca ağzından tek kelime çıkmayan Sergio, adalet sistemiyle iş birliği de yapmamıştır. Bu yüzden onu cinayete iten sebepler ve bu suçu işlemekteki niyetleri şu ana kadar gizemini korumaktadır. Genç bir psikiyatrist olan Ana Dussel ve ekibi, Sergio'yu bir hayvanmışçasına gece gündüz izleyerek onun toplum için potansiyel bir tehlike olup olmadığını tespit etmekle görevlidir." },
-        { "id": 26, "title": "Gotham Knights", "img": "https://m.media-amazon.com/images/M/MV5BYTUzNTI0YTYtZjZhZi00NTA5LWFmYzMtODhlMzcxNTRhM2FjXkEyXkFqcGdeQXVyMTg1MTk0Mzc@._V1_.jpg" , "rating":"5.1", "genre":"Aksiyon", "matter":"Bruce Wayne öldürülür ve evlatlık oğlu, Batman'in düşmanlarının çocuklarıyla bir ittifak kurar. Şehir daha tehlikeli hale geldikçe, bu uyumsuz kaçaklar, Gotham Knights olarak bilinen yeni nesil kurtarıcıları olacaktır." },
-        { "id": 27, "title": "Welcome to Eden", "img": "https://m.media-amazon.com/images/M/MV5BMTNiZTJlNTUtYTZiOC00MmQ2LTkzYTctMDcwMGJmNGEwYmU2XkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_.jpg" , "rating":"5.6", "genre":"Aksiyon", "matter":"Bir grup genç, gözlerden uzak bir adada düzenlenen bir partiye katılır. Ancak çok çekici görünen bu cennet, aslında tehlikeli sırlar ve tuzaklarla doludur. Mutlu musun? Zoa ve sosyal medyada aktif olan dört çekici genç bu soruyla birlikte tarihin en özel partisine davet edilir. Yeni bir içki markası tarafından organize edilen bu parti, yerini kimsenin bilmediği bir adada düzenlenecektir. Gençlerin heyecanlı bir macera olarak başlayan yolculuğu kısa sürede hayatlarının gezisine dönüşür. Ama cennet hiç de göründüğü gibi değildir." }
-
- ]
+  {
+    "id": 1,
+    "title": "Breaking Bad",
+    "img": "https://br.web.img3.acsta.net/pictures/14/03/31/19/28/462555.jpg",
+    "rating": "9.5",
+    "genre": "Suç",
+    "matter": "Sıradan bir kimya öğretmeni olan Walter White'ın öleceğini öğrenince uyuşturucu üreticiliğine kadar uzanan özgürleşme deneyimi, çarpıcı bir kara mizaha dönüşüyor. \n Doktor, hasta olduğunuzu ve yaşamak için iki seneniz kaldığını söyledi... Ne yapardınız? Dünyayı gezmek, sevdiklerinizle vakit geçirmek, asla cesaret edemediğiniz bir şeyi denemek... Tüm bunlar sizin için bir seçenek olabilir. Ancak Walter White için durum biraz farklı. The X-Files'ın yapımcısı Vince Gillian'ın imzasını taşıyan Breaking Bad, ölümle yüzleşen sıradan bir adamın sıradışı hikayesini anlatıyor. Walter, eşi ve engelli oğlu Jr. ile New Mexico'da tüm hayatını kurallara göre yaşayan kendi halinde bir kimya öğretmeniyken, ölümcül safhada akciğer kanseri olduğunu öğrenir. Yaşamak için iki senesi kalmıştır. Bu haberle sarsılan White, hayatının denklemini değiştirir. Tüm günlük endişelerden ve toplumun dayattığı sınırlamalardan sıyrılarak yeni bir adama dönüşür... Kimya bilgilerini farklı bir neden için, uyuşturucu üretip satmak için kullanan bir adam. Amacı ölümünden sonra ailesinin geçinebilmesini sağlayacak parayı kazanmaktır. Ancak işler kontrolden çıkar. Basit bir aile babasının uyuşturucu çetesinin elebaşına dönüşmesinin komik ama aynı zamanda duygu yüklü hikayesini kaçırmayın. Hele Malcolm in the Middle'ın babası Bryan Cranston, Emmy'ye aday gösterilen ve Drama Dalında En İyi Erkek Oyuncu ödülünü kazanan Walter rolünde hayatının performansını sunarken."
+  },
+  {
+    "id": 2,
+    "title": "Kurtlar Vadisi",
+    "img": "https://upload.wikimedia.org/wikipedia/tr/1/1f/Kurtlar-vadisi-eski.jpg",
+    "rating": "7.9",
+    "genre": "Aksiyon",
+    "matter": "Yurt dışında KGT adına birçok başarılı operasyonda bulunan Ali Candan; en son Kosova'da iken emrinde olduğu Aslan Akbey tarafından yurda çağrılmış ve kendisine en kritik görev olan Kurtlar Vadisi Operasyonu görevi verilmiştir. Bu görevdeki amaç; mafyanın en tepesindeki güç olan ve Mehmet Karahanlı'nın baron olduğu Kurtlar Konseyi'nin çökertilmesidir. Bu görev hiç kolay değildir ve Kurtlar Konseyi çok güçlüdür. Öyle ki konsey, Türkiye'nin yıllık millî gelirinin yarısı kadar bir paraya hükmetmektedir."
+  },
+  {
+    "id": 3,
+    "title": "Vikings",
+    "img": "https://tr.web.img3.acsta.net/pictures/19/10/09/14/38/1936798.jpg",
+    "rating": "8.5",
+    "genre": "Macera",
+    "matter": "Sekizinci yüzyıl İskandinavyası’nda geçen dizi, basit bir çiftçiyken cesur bir savaşçıya dönüşen Ragnar Lothbrok ve ailesinin öyküsünü ekranlara taşıyor. Savaş Tanrısı Odin'in soyundan geldiğine inanılan Ragnor’un acımasız ve korkusuz adamlarıyla birlikte denizlerle olan imtihanını seyrederken; savaşçı ve tüccar bir kavim olan Vikingler’in çok az işlenmiş ilgi çekici kültürüne hep birlikte tanık oluyoruz. Tarihi bir drama olarak nitelendirilebilecek dizinin hikayesi, gerçek Avrupa efsanelerine ve tarihsel figürlere dayanıyor."
+  },
+  {
+    "id": 4,
+    "title": "How I Met Your Mother",
+    "img": "https://flxt.tmsimg.com/assets/p185124_b_v9_aj.jpg",
+    "rating": "8.3",
+    "genre": "Komedi",
+    "matter": "27 yaşındaki Manhattan’lı mimar Ted, arkadaş grubuyla kendine küçük bir dünya yaratmış bir genç. Grupları dört kişiden oluşuyor: En iyi arkadaşı, hukuk öğrencisi Marshall (Jason Segel), dokuz yıldır birlikte olduğu anaokulu öğretmeni sevgilisi Lily (Buffy the Vampire Slayer’ın Willow’u Alyson Hannigan) ve kendine özgü fikirleri olan, takım elbise giymekten şaşmayan, kızlarla tanışmak için sağlam bir yöntem geliştirmiş Barney Stenson (Neil Patrick Harris). Onun kalıcı ilişki kurmak gibi kaygıları yok. Tersine, renkten renge koşuyor. Bizim onunla tanıştığımız sıralarda Lübnanlı kızları beğeniyor, bir önceki favorisi yarı Asyalı kızlarmış. Günler böylece akıp giderken, Marshall, anaokulu öğretmeni Lily ile evlenmeye karar verdiğini açıklayınca Ted (Josh Radnor) paniğe kapılıyor. Romantik Ted’in bekâr kalmaya hiç niyeti yok ve eğer gerçek aşkı bulmaya niyeti varsa, onun da harekete geçmesi gerek. Derken Robin Trubotsky (Cobie Smulders) ile tanışıyor ve ilk bakışta âşık olduğunu düşünüyor. Acaba sahiden öyle mi?"
+  },
+  {
+    "id": 5,
+    "title": "Narcos",
+    "img": "https://m.media-amazon.com/images/I/71bmgBo-EQL._AC_UF894,1000_QL80_.jpg",
+    "rating": "8.8",
+    "genre": "Aksiyon",
+    "matter": "Dizi, uyuşturucu kartellerini ve onların peşindeki ajanların hikayesini anlatıyor. Yaşanmış olaylardan yola çıkan ve 1980’li yıllarda geçen dizi, dünyanın en meşhur uyuşturucu baronlarından ve bilinen en büyük suçlulardan biri olan Pablo Escobar’ı merkezine alıyor. Dizide, Wagner Moura‘yı Pablo Escobar, Pedro Pascal‘ı Javier Pena, Boyd Holbrook‘ı Steve Murphy ve Juan Pablo Raba‘yı Gustavo rollerinde izleyeceğiz. Dizinin senaryosunu Chris Brancato yazıyor. Yönetmenliği ise José Padilha‘ya ait."
+  },
+  {
+    "id": 6,
+    "title": "Peaky Blinders",
+    "img": "https://www.formulatv.com/images/series/posters/1000/1079/dest_1.jpg",
+    "rating": "8.8",
+    "genre": "Suç",
+    "matter": "Birinci Dünya Savaşı’ndan yeni çıkmış İngiltere’yi, yasadışı faaliyet gösteren çeşitli çeteler sarmıştır. Bunlardan biri de soygunculuk ve at yarışıyla para kazanan Peaky Blinders’dır. Polislere rüşvet yedirerek paçayı kurtaran çete, bir soygunda yanlışlık yapınca, başlarına bela olacak yeni bir müfettişin şehre gelmesine vesile olurlar"
+  },
+  {
+    "id": 7,
+    "title": "The 100",
+    "img": "https://resizing.flixster.com/LHH5SvybzNWHdHxRfyh-ZMDQIFE=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjEyODEwMS53ZWJw",
+    "rating": "7.6",
+    "genre": "Bilim Kurgu",
+    "matter": "97 yıl önce, dünya nükleer bir kıyametin ardından yerle bir olmuştur ve hayatta kalanlar çevredeki uzay istasyonlarına yerleşmişlerdir. 3 kuşak sonra, kaynaklar artık yetmemeye başlar. Geleceklerini garantiye almak adına atılan acımasız adımlar sonrasında, genç mahkumlardan oluşan 100 kişilik bir grup, yaşanılır olup olmadığını test etmek adına Dünya’ya gönderilir. Şu ana dek, gezegene ayak basan başkası olmamıştır."
+  },
+  {
+    "id": 8,
+    "title": "Modern Family",
+    "img": "https://images.justwatch.com/poster/8589534/s718/sezon-2.%7Bformat%7D",
+    "rating": "8.5",
+    "genre": "Komedi",
+    "matter": "Pritchett, Dunphy ve Pritchett-Tucker ailelerinin günlük yaşantılarından manzaralar sunan Modern Family dizisinin konusu, bu üç ailenin ekseninde dönüyor. Genel olarak bölümler, kamera karşısına geçen aile üyelerine bir sorunun sorulması ile başlıyor ve aslında bölüm boyunca o sorunun cevabını veren olaylar yaşanıyor"
+  },
+  {
+    "id": 9,
+    "title": "A Perfect Story",
+    "img": "https://m.media-amazon.com/images/M/MV5BNzc2ZGE3OTktMTEwNS00MTY0LTllNWQtYTE3YmNhYjdhZDIwXkEyXkFqcGdeQXVyMTUzOTczNzYx._V1_.jpg",
+    "rating": "7.7",
+    "genre": "Romantik",
+    "matter": "Kendi düğününden kaçan Margot, hayattaki amacını kaybetmiş gibi hissetmektedir. Ama deli dolu David sayesinde yolunu tekrar bulabileceğinin henüz farkında değildir. Geçinebilmek için üç farklı işte çalışmak zorunda olan David ile bir otel imparatorluğunun vârisi olan Margot farklı dünyaların insanlarıdır. Ancak yolları kesişen bu ikili, hayatlarının aşkını geri kazanabilmek için birbirlerinin yardımına muhtaç olduklarını fark eder."
+  },
+  {
+    "id": 10,
+    "title": "Hijack",
+    "img": "https://image.tmdb.org/t/p/w500/szDEqqarPi3YqiPLevm7LObYrDJ.jpg",
+    "rating": "7.6",
+    "genre": "Gerilim",
+    "matter": "KA29 sefer sayılı uçuş Dubai'den Londra'ya yedi saatlik yolculuğu sırasında kaçırıldığında, başarılı bir kurumsal müzakereci olan Sam Nelson, uçaktaki herkesi kurtarmak için profesyonel becerilerini kullanmaya çalışır. Bu yüksek riskli strateji onun sonunu mu getirecek?"
+  },
+  {
+    "id": 11,
+    "title": "Foundation",
+    "img": "https://m.media-amazon.com/images/M/MV5BODgxNTExNjktN2VmNS00MWM0LWI3ZjYtNjlhZGIyYTM0YjM0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+    "rating": "7.5",
+    "genre": "Bilim Kurgu",
+    "matter": "Foundation; insanların Samanyolu boyunca farklı gezegenlere yayıldığı bir gelecekte geçiyor. Hikâyenin merkezinde ise matematiksel verileri kullanarak geleceği görme yeteneğine sahip bir tarihçi ve matematikçi olan Hari Seldon yer alıyor. Galaksinin dört bir köşesine saçılmış insanları bir arada tutan Galaktik İmparatorluk’un çökmek üzere olduğunu gören Seldon, insanlığın bilgisini ve tarihini yok olmaktan kurtarmak için zorlu bir yolculuğa atılıyor."
+  },
+  {
+    "id": 12,
+    "title": "The Crowded Room",
+    "img": "https://m.media-amazon.com/images/M/MV5BYTkxMDc2OTUtNjAyYi00NDUyLWE4OGMtODQwMjY5ZmRmOTMwXkEyXkFqcGdeQXVyMjM3NjM3Mg@@._V1_FMjpg_UX1000_.jpg",
+    "rating": "7.6",
+    "genre": "Dram",
+    "matter": "1979 yazında Manhattan'da, genç bir adam şok edici bir suçtan tutuklanır ve beklenmedik bir müfettiş, bunun arkasındaki gizemi çözmek zorundadır."
+  },
+  {
+    "id": 13,
+    "title": "Survival of the Thickest",
+    "img": "https://m.media-amazon.com/images/M/MV5BYzAxZGJlNjktNDQ3Mi00N2E1LWJmZGUtNDBjMzVkMzU5NWIxXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+    "rating": "7.6",
+    "genre": "Komedi",
+    "matter": "İşine tutkuyla bağlı bir stilist olan Mavis Beaumont, kötü bir ayrılığın ardından yeni bir hayata ve aşka yelken açıp kendi tanımladığı mutluluğu bulma fırsatı yakalar. Survival of the Thickest Mavis Beaumont'ın (Michelle Buteau) başından geçenlere odaklanıyor. Kendi tercihi olmaksızın yeniden bekârlığa dönen, siyahi ve büyük bedenli bir kadın olan Mavis, kendini beklenmedik bir durumun içinde bulur. Şimdi zorluk içindeki bir stilist olarak hayatını yeniden kurmak zorundadır. Ancak olan biteni atlatmakla kalmayıp, hayatta başarılı olmakta da kararlıdır. Bu konuda ailesi gibi gördüğü dostları, beden olumlayıcı bir yaklaşım, v-yaka hoş bir kıyafet ve biraz dudak parlatıcı ona büyük destek olacaktır. Bu komedi dizisi, Buteau'nun büyük ilgi gören deneme kitabından uyarlandı."
+  },
+  {
+    "id": 14,
+    "title": "Celebrity",
+    "img": "https://pics.filmaffinity.com/celebrity-266729613-mmed.jpg",
+    "rating": "7.5",
+    "genre": "Gerilim",
+    "matter": "Şöhret, para ve güç temalı bu dizide bir gecede sosyal medya yıldızına dönüşen Seo A‑ri, fenomenlerin gösterişli dünyasında başarısının ölümcül sonuçlarıyla yüzleşecektir. Celebrity, kendini bir anda şöhretin parayı da beraberinde getirdiği ünlüler dünyasında bulan Seo A-ri'nin maceralarını ve karşılaştığı ünlülerin rekabete dayalı gösterişli hayatlarının gerçek yüzünü anlatıyor."
+  },
+  {
+    "id": 15,
+    "title": "Titans",
+    "img": "https://nezaman.be/uploads/series/r/r-2018-27557-titans.jpg",
+    "rating": "7.5",
+    "genre": "Aksiyon",
+    "matter": "Titans, eskiden Batman'in himayesinde olan ve Robin olarak bilinen, şimdi ise Nightwin olarak suçlularla mücadele eden Dick Grayson (Brenton Thwaites) liderliğindeki bir grup genç süper kahramanı merkezine alıyor. Eski bir sirk çalışanı olan Grayson, anne-babasının ölümünden sonra Batman'in himayesine alınmış ve suçlularla mücadele etmek için eğitilmiştir. Grayson, Nightwing olarak Batman’in gölgesinden çıkacak ve Starfire (Anna Diop), Raven (Teagan Croft), Beast Boy (Ryan Potter) ve pek çok başka süper kahramanın içinde bulunduğu yeni ve korkusuz bir Titans takımının başına geçecektir."
+  },
+  {
+    "id": 16,
+    "title": "Steeltown Murders",
+    "img": "https://m.media-amazon.com/images/M/MV5BYzgxMWNlOTQtN2VjNi00ZDhjLThkM2YtOWYyMjg4ODY0MjdiXkEyXkFqcGdeQXVyOTMyODgwOTQ@._V1_FMjpg_UX1000_.jpg",
+    "rating": "7.1",
+    "genre": "Suç",
+    "matter": "Çözülmemiş ama asla unutulmamış üç cinayet. Otuz yıl sonra DCI Bethall, 1970'lerde Port Talbot'a terör estiren seri katili bulabilecek mi?"
+  },
+  {
+    "id": 17,
+    "title": "Manifest",
+    "img": "https://tr.web.img2.acsta.net/pictures/19/12/24/09/27/2970070.jpg",
+    "rating": "7.1",
+    "genre": "Gizem",
+    "matter": "Bir uçak uçuş sırasında türbülansa girer ve bir havalimanına acil iniş yapmak zorunda kalır. Havalimanında inen yolcuları bekleyen bir süpriz vardır. Aradan beş sene geçmiştir; oysa onlar sadece bir günün geçtiğini düşünmektedir."
+  },
+  {
+    "id": 18,
+    "title": "Back to 15",
+    "img": "https://images.ottplay.com/posters/Back_to_15_2022_tv_shows_poster_1_907.jpeg",
+    "rating": "6.7",
+    "genre": "Komedi",
+    "matter": "Hayatından memnun olmayan 30 yaşındaki Anita yanlışlıkla 15 yaşına geri dönmenin yolunu keşfeder. Acaba kendi kaderini baştan yazabilecek mi? De Volta aos 15, Anita'nın kendini keşfetme ve olgunlaşma serüvenini konu alan komik ve heyecan dolu bir yapım. Maisa tarafından canlandırılan 15 yaşındaki bu gencin yetişkinliğinde süreceği hayata dair büyük beklentileri vardı: Yaşadığı küçük kasaba Imperatriz'den ayrılacak, birçok yer gezip görecek ve bir sürü insanla tanışacaktı. Ancak 30 yaşına geldiğinde hayatının bununla uzaktan yakından alakası yoktu. Yaşadığı talihsiz olayların ardından ergenliğini geçirdiği yatak odasına sığınan Anita, sihirli şekilde kendini yeniden lisenin ilk gününde buldu: 30 yaşındaki aklıyla, 15 yaşındaki gencecik bedenine dönmüştü!"
+  },
+  {
+    "id": 19,
+    "title": "Face to Face",
+    "img": "https://m.media-amazon.com/images/M/MV5BNTM4MDk3ZDEtYjhmYi00OGI1LWIyZTktYzQzNmVjNmJlNmVmXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg",
+    "rating": "6.8",
+    "genre": "Suç",
+    "matter": "Polis memuru Bjorn’un kızı ölü bulunduğunda, polis memuru, kızının son günlerini araştırmaya koyuluyor. Şüphelilerle bir kaç kez tesadüfü karşılaşmadan sonra, hem kızı hem de kendisi hakkında sert gerçeklerle karşı karşıya kalır."
+  },
+  {
+    "id": 20,
+    "title": "Sleeping Dog",
+    "img": "https://m.media-amazon.com/images/M/MV5BMjBmYjYyMDUtMzkzOC00ZGQxLWFjY2QtYjUwZTc1MzM1MWVlXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_FMjpg_UX1000_.jpg",
+    "rating": "6.4",
+    "genre": "Suç",
+    "matter": "Yeni bir ölüm, kapandığı sanılan bir cinayet davası hakkında rahatsız edici şüpheler uyanmasına sebep olur. Sokaklarda yaşayan eski bir dedektif gerçeğin peşine düşer. Gözden düşmüş ünlü bir polis ve gelecek vadeden genç bir savcı farklı sebeplerle, kapanmış bir cinayet dosyasını ve beraberinde Pandora'nın Kutusu'nu açar. Bir komplonun kanlı izleri emniyet kurumunun derinliklerine kadar uzanmakta ve tehlikeli bir şekilde herkesi içine çekmektedir. Yargı makamının en tepesindekiler de bu suça dâhil mi? Yoksa her şey bir buçuk yıl önce şehri derinden sarsan yıkıcı terör saldırısıyla mı ilgili? Bu soruların cevabı polis memurunun gözden düşmesi ve bunu tetikleyen olaylarla bağlantılıdır. Böylece Pandora'nın Kutusu'nun gerçek içeriği ortaya çıkacaktır."
+  },
+  {
+    "id": 21,
+    "title": "Secret Invasion",
+    "img": "https://m.media-amazon.com/images/I/91uCLEr4ABL._AC_UF1000,1000_QL80_.jpg",
+    "rating": "6.1",
+    "genre": "Aksiyon",
+    "matter": "Marvel's Secret Invasion'ın Thanos'un Sonsuzluk Taşları'nı kullanmasından hemen sonrasında geçeceği biliniyor. Evrenin yarısının yok olmasının ardından yaşananları konu edinecek. Orijinal çizgi romanlarda Secret Invasion'ın konusu şöyleydi: Şekil değiştiren uzaylılar olarak bilinen Skrulllar, yok olan süper kahramanların yerine geçer. Böylece dünyayı ele geçirmeye çalışırlar."
+  },
+  {
+    "id": 22,
+    "title": "The Messenger",
+    "img": "https://www.hdfilmcehennemi.life/uploads/poster/the-messenger.jpg",
+    "rating": "6.4",
+    "genre": "Dram",
+    "matter": "Ed'in hayatı, huzurlu bir rutinden ibarettir. Ta ki gizemli bir mesajı alana kadar."
+  },
+  {
+    "id": 23,
+    "title": "Aktris",
+    "img": "https://tr.web.img2.acsta.net/pictures/23/05/05/10/04/0636492.jpg",
+    "rating": "5.4",
+    "genre": "Suç",
+    "matter": "Türkiye’nin en ünlü kadın starının gündüz ışıltılı gece karanlık dünyasına yolculuk."
+  },
+  {
+    "id": 24,
+    "title": "Fake Profile",
+    "img": "https://nezaman.be/uploads/series/r/r-2023-68680-perfil-falso.jpg",
+    "rating": "5.7",
+    "genre": "Romantik",
+    "matter": "Hayallerindeki adamı arayan Camila, flört uygulamasında seksi bir profil oluşturur. Uygulamada Fernando adında çok yakışıklı birini bulur. Ancak aslında bekâr olmayan bu adamın adı da Fernando değildir. Tuzağa düşen Camila için her şey bir kâbus hâlini alır. Tanıştığı adamın gerçekte kim olduğunu öğrenmek için her şeyi yapmaya hazır olan genç kadın, çaresizce bu düzenbazın gerçek kimliğini arar. Kendisine söylediği her bir yalanın ve verdiği her bir sözün bedelini tek tek ödetmeye kararlıdır. Ancak yanıltıcı görünümlerle dolu içinden çıkılmaz bir labirente girdiğinden habersiz olan Camila, yasak ilişki ve ölümcül güçlerle dolu bir dünyaya sürüklenir."
+  },
+  {
+    "id": 25,
+    "title": "Muted",
+    "img": "https://m.media-amazon.com/images/M/MV5BZjc2MmIxMjAtOGFjOS00ODE2LWIzMzUtZjBhMDc0NGRmODJmXkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg",
+    "rating": "5.6",
+    "genre": "Suç",
+    "matter": "Sergio, anne babasını öldürdüğü günden beri konuşmamıştır. Aradan geçen altı yılın ardından bir psikiyatrist, sıra dışı bir soruşturmayla yaşananları ortaya çıkarmaya çalışır. Anne babasını öldüren Sergio Ciscar, altı yıl sonra hapisten çıkar. Salıverildiği sırada hâlâ on sekiz yaşından küçüktür. Hapiste kaldığı süre boyunca ağzından tek kelime çıkmayan Sergio, adalet sistemiyle iş birliği de yapmamıştır. Bu yüzden onu cinayete iten sebepler ve bu suçu işlemekteki niyetleri şu ana kadar gizemini korumaktadır. Genç bir psikiyatrist olan Ana Dussel ve ekibi, Sergio'yu bir hayvanmışçasına gece gündüz izleyerek onun toplum için potansiyel bir tehlike olup olmadığını tespit etmekle görevlidir."
+  },
+  {
+    "id": 26,
+    "title": "Gotham Knights",
+    "img": "https://m.media-amazon.com/images/M/MV5BYTUzNTI0YTYtZjZhZi00NTA5LWFmYzMtODhlMzcxNTRhM2FjXkEyXkFqcGdeQXVyMTg1MTk0Mzc@._V1_.jpg",
+    "rating": "5.1",
+    "genre": "Aksiyon",
+    "matter": "Bruce Wayne öldürülür ve evlatlık oğlu, Batman'in düşmanlarının çocuklarıyla bir ittifak kurar. Şehir daha tehlikeli hale geldikçe, bu uyumsuz kaçaklar, Gotham Knights olarak bilinen yeni nesil kurtarıcıları olacaktır."
+  },
+  {
+    "id": 27,
+    "title": "Welcome to Eden",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTNiZTJlNTUtYTZiOC00MmQ2LTkzYTctMDcwMGJmNGEwYmU2XkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_.jpg",
+    "rating": "5.6",
+    "genre": "Aksiyon",
+    "matter": "Bir grup genç, gözlerden uzak bir adada düzenlenen bir partiye katılır. Ancak çok çekici görünen bu cennet, aslında tehlikeli sırlar ve tuzaklarla doludur. Mutlu musun? Zoa ve sosyal medyada aktif olan dört çekici genç bu soruyla birlikte tarihin en özel partisine davet edilir. Yeni bir içki markası tarafından organize edilen bu parti, yerini kimsenin bilmediği bir adada düzenlenecektir. Gençlerin heyecanlı bir macera olarak başlayan yolculuğu kısa sürede hayatlarının gezisine dönüşür. Ama cennet hiç de göründüğü gibi değildir."
+  },
+  {
+    "title": "Ezel",
+    "img": "https://m.media-amazon.com/images/M/MV5BMjIzOTY1YTYtNmRhMC00MzAxLWEzMzUtM2ZiMmYwNTY0MjMyXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg",
+    "rating": "8.7",
+    "genre": "Suç",
+    "matter": "Ömer, babasının atölyesinde çalışarak sade bir hayat içerisinde yaşamını sürdüren bir gençtir. Askerlik dönüşü sevgilisi Eyşan ile evlenmeyi planlamaktadır. Fakat kendisini bir anda cinayetten hapiste bulunca hayatı allak bullak olur. Hapisteyken tanıştığı Ramiz Dayı, ikinci babası olur."
+  },
+  {
+    "title": "Sherlock",
+    "img": "https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+    "rating": "9.1",
+    "genre": "Suç",
+    "matter": "Bir roman uyarlaması olan Sherlock, bir dedektiflik dizisidir. Sherlock Holmes adında bir dedektif ve onun tamamen tesadüf eseri tanıştığı destekçisi Dr. John Watson birlikte iş yapmaya başlarlar. Ev arkadaşı olan bu ikili, yeni taşındıkları mahallede geçen cinayet olaylarında polise yardım etmekle başlarlar işe."
+  }
+]
