@@ -10,13 +10,13 @@ The project focuses on the backend aspect and employs Express.js for this purpos
 </div> </br>
 
 <p>
-4. Start the server
+3. Start the server
 </p>
 <div>
 nodemon index.js --watch
 </div> </br>
 <p>
-5. Now run the app
+4. Now run the app
 </p>
 <div>
 localhost:[5000]
